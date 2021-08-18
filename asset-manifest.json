@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/marklate/static/css/main.0c2c514b.chunk.css",
-    "main.js": "/marklate/static/js/main.43c4e5f3.chunk.js",
-    "main.js.map": "/marklate/static/js/main.43c4e5f3.chunk.js.map",
+    "main.js": "/marklate/static/js/main.075483c5.chunk.js",
+    "main.js.map": "/marklate/static/js/main.075483c5.chunk.js.map",
     "runtime-main.js": "/marklate/static/js/runtime-main.ad6b0078.js",
     "runtime-main.js.map": "/marklate/static/js/runtime-main.ad6b0078.js.map",
     "static/css/2.983f79de.chunk.css": "/marklate/static/css/2.983f79de.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.983f79de.chunk.css",
     "static/js/2.29c530a5.chunk.js",
     "static/css/main.0c2c514b.chunk.css",
-    "static/js/main.43c4e5f3.chunk.js"
+    "static/js/main.075483c5.chunk.js"
   ]
 }
