@@ -1,0 +1,14 @@
+.Markdown {
+  min-height: 100vh;
+  border-style: dashed;
+  border-radius: 5%;
+  padding: 1rem;
+}
+
+.Markdown textarea {
+  min-height: 100%;
+  width: 100%;
+  text-rendering: optimizeLegibility;
+  outline: none;
+  border: none;
+}

@@ -1,0 +1,10 @@
+.Markup  {
+  min-height: 100vh;
+  text-rendering: optimizeLegibility;
+  border-style: double;
+  border-radius: 5%;
+}
+
+img {
+ max-width: 25vw;
+}
