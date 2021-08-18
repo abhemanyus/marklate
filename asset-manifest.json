@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/marklate/static/css/main.4fcd68c1.chunk.css",
-    "main.js": "/marklate/static/js/main.1e81f4c8.chunk.js",
-    "main.js.map": "/marklate/static/js/main.1e81f4c8.chunk.js.map",
-    "runtime-main.js": "/marklate/static/js/runtime-main.902d8519.js",
-    "runtime-main.js.map": "/marklate/static/js/runtime-main.902d8519.js.map",
-    "static/js/2.02154345.chunk.js": "/marklate/static/js/2.02154345.chunk.js",
-    "static/js/2.02154345.chunk.js.map": "/marklate/static/js/2.02154345.chunk.js.map",
-    "static/js/3.f4b855c0.chunk.js": "/marklate/static/js/3.f4b855c0.chunk.js",
-    "static/js/3.f4b855c0.chunk.js.map": "/marklate/static/js/3.f4b855c0.chunk.js.map",
+    "main.css": "/marklate/static/css/main.0c2c514b.chunk.css",
+    "main.js": "/marklate/static/js/main.43c4e5f3.chunk.js",
+    "main.js.map": "/marklate/static/js/main.43c4e5f3.chunk.js.map",
+    "runtime-main.js": "/marklate/static/js/runtime-main.ad6b0078.js",
+    "runtime-main.js.map": "/marklate/static/js/runtime-main.ad6b0078.js.map",
+    "static/css/2.983f79de.chunk.css": "/marklate/static/css/2.983f79de.chunk.css",
+    "static/js/2.29c530a5.chunk.js": "/marklate/static/js/2.29c530a5.chunk.js",
+    "static/js/2.29c530a5.chunk.js.map": "/marklate/static/js/2.29c530a5.chunk.js.map",
+    "static/js/3.8981c73f.chunk.js": "/marklate/static/js/3.8981c73f.chunk.js",
+    "static/js/3.8981c73f.chunk.js.map": "/marklate/static/js/3.8981c73f.chunk.js.map",
     "index.html": "/marklate/index.html",
-    "static/css/main.4fcd68c1.chunk.css.map": "/marklate/static/css/main.4fcd68c1.chunk.css.map",
-    "static/js/2.02154345.chunk.js.LICENSE.txt": "/marklate/static/js/2.02154345.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/marklate/static/media/logo.6ce24c58.svg"
+    "static/css/2.983f79de.chunk.css.map": "/marklate/static/css/2.983f79de.chunk.css.map",
+    "static/css/main.0c2c514b.chunk.css.map": "/marklate/static/css/main.0c2c514b.chunk.css.map",
+    "static/js/2.29c530a5.chunk.js.LICENSE.txt": "/marklate/static/js/2.29c530a5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.902d8519.js",
-    "static/js/2.02154345.chunk.js",
-    "static/css/main.4fcd68c1.chunk.css",
-    "static/js/main.1e81f4c8.chunk.js"
+    "static/js/runtime-main.ad6b0078.js",
+    "static/css/2.983f79de.chunk.css",
+    "static/js/2.29c530a5.chunk.js",
+    "static/css/main.0c2c514b.chunk.css",
+    "static/js/main.43c4e5f3.chunk.js"
   ]
 }
