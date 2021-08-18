@@ -6,19 +6,19 @@ export class Markdown extends Component {
   constructor(...args) {
     super(...args);
     this.state = {
-      markdown: `# Header 
-  ## Subheader
-  [google](www.google.com)
-  \`function foo = (bar) => return bar;\`
-  \`\`\`This
-    is
-    code
-  \`\`\`
-  1. Best markdown previewer!
-  > Made by professionals, for professionals
-  ![A brown cat](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpetsnurturing.com%2Fwp-content%2Fuploads%2F2018%2F08%2FSpotted-cat-breeds-4.jpg&f=1&nofb=1)
-  **this is fun**
-      `,
+      markdown: 
+`# Header 
+## Subheader
+[google](www.google.com)
+\`function foo = (bar) => return bar;\`
+\`\`\`This
+  is
+  code
+\`\`\`
+1. Best markdown previewer!
+> Made by professionals, for professionals
+![A brown cat](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpetsnurturing.com%2Fwp-content%2Fuploads%2F2018%2F08%2FSpotted-cat-breeds-4.jpg&f=1&nofb=1)
+**this is fun**`,
       submit: true
     };
   }
