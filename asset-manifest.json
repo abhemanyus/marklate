@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/marklate/static/css/main.0c2c514b.chunk.css",
-    "main.js": "/marklate/static/js/main.075483c5.chunk.js",
-    "main.js.map": "/marklate/static/js/main.075483c5.chunk.js.map",
+    "main.js": "/marklate/static/js/main.6a2bf9bf.chunk.js",
+    "main.js.map": "/marklate/static/js/main.6a2bf9bf.chunk.js.map",
     "runtime-main.js": "/marklate/static/js/runtime-main.ad6b0078.js",
     "runtime-main.js.map": "/marklate/static/js/runtime-main.ad6b0078.js.map",
     "static/css/2.983f79de.chunk.css": "/marklate/static/css/2.983f79de.chunk.css",
-    "static/js/2.29c530a5.chunk.js": "/marklate/static/js/2.29c530a5.chunk.js",
-    "static/js/2.29c530a5.chunk.js.map": "/marklate/static/js/2.29c530a5.chunk.js.map",
+    "static/js/2.658f3420.chunk.js": "/marklate/static/js/2.658f3420.chunk.js",
+    "static/js/2.658f3420.chunk.js.map": "/marklate/static/js/2.658f3420.chunk.js.map",
     "static/js/3.8981c73f.chunk.js": "/marklate/static/js/3.8981c73f.chunk.js",
     "static/js/3.8981c73f.chunk.js.map": "/marklate/static/js/3.8981c73f.chunk.js.map",
     "index.html": "/marklate/index.html",
     "static/css/2.983f79de.chunk.css.map": "/marklate/static/css/2.983f79de.chunk.css.map",
     "static/css/main.0c2c514b.chunk.css.map": "/marklate/static/css/main.0c2c514b.chunk.css.map",
-    "static/js/2.29c530a5.chunk.js.LICENSE.txt": "/marklate/static/js/2.29c530a5.chunk.js.LICENSE.txt"
+    "static/js/2.658f3420.chunk.js.LICENSE.txt": "/marklate/static/js/2.658f3420.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ad6b0078.js",
     "static/css/2.983f79de.chunk.css",
-    "static/js/2.29c530a5.chunk.js",
+    "static/js/2.658f3420.chunk.js",
     "static/css/main.0c2c514b.chunk.css",
-    "static/js/main.075483c5.chunk.js"
+    "static/js/main.6a2bf9bf.chunk.js"
   ]
 }
